@@ -20,7 +20,7 @@
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<DefaultForm>ExternalDataProcessor.ЗагрузкаРеестраУслуг.Form.ФормаСравнения</DefaultForm>
+			<DefaultForm>ExternalDataProcessor.ЗагрузкаРеестраУслуг.Form.ФормаВременная</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>
